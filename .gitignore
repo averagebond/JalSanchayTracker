@@ -1,0 +1,13 @@
+# Android Studio / Gradle
+.gradle/
+.idea/
+local.properties
+build/
+app/build/
+
+# Mac OS
+.DS_Store
+
+# JDK
+jdk17.zip
+jdk17/
