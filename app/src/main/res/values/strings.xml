@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jal Sanchay</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="water_wealth">Water Wealth</string>
+    <string name="total_water_wealth">Total Water Wealth</string>
+    <string name="tank_storage">Tank Storage</string>
+</resources>

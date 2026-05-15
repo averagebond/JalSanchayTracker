@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_green">#2ECC71</color>
+    <color name="background">#F2EDE4</color>
+    <color name="black">#000000</color>
+    <color name="card_tip">#F5E6C8</color>
+    <color name="nav_inactive">#9E9E9E</color>
+    <color name="on_surface">#1A1A1A</color>
+    <color name="on_surface_variant">#6B7280</color>
+    <color name="on_track_text">#1A6B3A</color>
+    <color name="primary">#1A6B6B</color>
+    <color name="primary_dark">#0D4F4F</color>
+    <color name="primary_light">#2A8A8A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="card_margin">12dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <string name="app_name">Jal Sanchay</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="tank_storage">Tank Storage</string>
+    <string name="total_water_wealth">Total Water Wealth</string>
+    <string name="water_wealth">Water Wealth</string>
+    <style name="CardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+    </style>
+    <style name="TextAppearance.JalSanchay.Label" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/on_surface_variant</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="TextAppearance.JalSanchay.Title" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/on_surface</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="Theme.JalSanchay" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+</resources>

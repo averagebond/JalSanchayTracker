@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/dialog_add_edit_entry.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/dialog_add_edit_entry.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/fragment_dashboard.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/item_history.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/fragment_profile.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/dialog_add_entry.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/dialog_add_entry.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/fragment_history.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/fragment_tips.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_tips.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/activity_main.xml"
+    }
+]

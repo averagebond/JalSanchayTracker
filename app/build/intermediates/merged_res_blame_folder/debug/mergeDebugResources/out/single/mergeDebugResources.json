@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_activity_main.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_ic_profile.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_fragment_dashboard.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_fragment_profile.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/color_nav_selector.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/color/nav_selector.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_ic_tips.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/ic_tips.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_fragment_tips.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_tips.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_bg_tank_progress.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/bg_tank_progress.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_dialog_add_edit_entry.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/dialog_add_edit_entry.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_ic_water_drop.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/ic_water_drop.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_bg_primary_card.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/bg_primary_card.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/navigation_nav_graph.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_bg_badge_green.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/bg_badge_green.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_fragment_history.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_nav_selector.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/nav_selector.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_ic_dashboard.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_ic_history.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/drawable_bg_badge_subtle.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/drawable/bg_badge_subtle.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_dialog_add_entry.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/dialog_add_entry.xml"
+    },
+    {
+        "merged": "com.jalsanchay.tracker.app-debug-52:/layout_item_history.xml.flat",
+        "source": "com.jalsanchay.tracker.app-main-54:/layout/item_history.xml"
+    }
+]
